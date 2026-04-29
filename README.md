@@ -1,38 +1,38 @@
-# Data Analytics & Software Portfolio
+# Tattva Rajput - Full-Stack Developer & AI Enthusiast Portfolio
 
 
-Welcome to my portfolio! This project is a modern, responsive web application built with **React** and **Vite**, designed to showcase my expertise in Data Analytics, Python, and Full-Stack Development. The interface is inspired by the sleek and functional design of GitHub.
+Welcome to my portfolio! This project is a modern, responsive web application built with **React** and **Vite**, showcasing my expertise in Full-Stack Development, Machine Learning, and AI projects.
 
 ## About Me
-**Aditya Kishore Singh**
-*Data Analytics Enthusiast | Newton School of Technology, Rishihood University*
+**Tattva Rajput**
+*Full-Stack Developer | AI Enthusiast | Machine Learning Practitioner*
 
-I specialize in extracting actionable insights from complex datasets and building interactive dashboards that drive decision-making. My skillset spans from core data tools like **Excel** and **Tableau** to programming with **Python** and full-stack development.
+I'm passionate about building innovative applications that combine web development with intelligent systems. My expertise spans from front-end development with React and JavaScript to back-end APIs with Node.js, and machine learning projects in Python. I love solving complex problems and creating scalable solutions.
 
 ## Key Features
-- **Dynamic Project Filtering**: Categorize and view projects based on the tools used (Tableau, Python, Excel, etc.).
-- **Interactive Dashboards**: Direct links to live Tableau Public visualizations and Google Sheets.
-- **GitHub Integration**: A stylized repository list that mirrors the GitHub UI for a familiar, professional look.
-- **Responsive Design**: Fully optimized for mobile and desktop viewing.
-- **Contribution Graph**: A visual representation of activity and consistency.
+- **Dynamic Project Showcase**: View and filter my featured projects across different technologies.
+- **Modern Design**: A clean, GitHub-inspired interface that's both professional and intuitive.
+- **Responsive Layout**: Fully optimized for mobile and desktop viewing.
+- **Technology Integration**: Showcase of projects built with React, Python, JavaScript, TypeScript, and more.
+- **Direct GitHub Links**: Easy access to repository source code.
 
 ## Tech Stack
-- **Languages**: Python (Pandas, NumPy, Matplotlib, OpenCV), JavaScript, TypeScript, Java, SQL
-- **Frontend**: React.js, Next.js, Vite, HTML, CSS
-- **Backend & Tools**: Node.js, Express, Prisma ORM, PostgreSQL, MySQL, Nginx
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, GitHub Actions, Git
-- **AI & ML**: Generative AI, LangChain, LangGraph, Hugging Face
-- **Testing**: Playwright
-- **Methodology**: Agile Principles & Scrum
-- **Analytics Tools**: Tableau, Excel, Google Sheets
+- **Languages**: Python, JavaScript, TypeScript, SQL
+- **Frontend**: React.js, HTML, CSS, Vite
+- **Backend & APIs**: Node.js, Express.js, RESTful APIs
+- **Database**: MongoDB, SQL
+- **Machine Learning**: Scikit-learn, TensorFlow, Pandas, NumPy
+- **AI & ML**: Machine Learning Models, AI Implementations
+- **Tools & Version Control**: Git, GitHub
+- **Development**: Problem-solving, Full-Stack Development
 
 ## Featured Projects
-- **HR Analytics**: Analyzing employee data to gain insights into attrition, performance, and workforce trends.
-- **Hospital Readmission Analysis**: Analyzing hospital readmission data to identify risk factors and improve patient care strategies.
-- **Netflix Analytics**: Analyzing Netflix content data to identify trends in genres, viewership, and regional popularity.
-- **Road Accident Analytics**: Detailed analysis of road accidents to identify patterns, causes, and areas for potential safety improvements.
-- **Amazon PrimeVideo Analytics**: An exploratory data analysis of the Amazon Prime Video catalog, examining content distribution, ratings, and genres.
-- **Stock Market Analysis**: A comprehensive Excel-based real estate market analysis and investment strategy evaluating property trends and profitability.
+- **Gen-AI Milestone 1**: AI project focusing on machine learning fundamentals and model implementation.
+- **Property Price Prediction**: ML-powered web application for real estate price estimation using property features.
+- **Modular AI Companion**: Extensible AI-powered companion application built with Python.
+- **Study Tracker**: Web application for managing study sessions and academic progress.
+- **SDSE Project**: Full-stack JavaScript project focusing on software development practices.
+- **Model Auditor**: TypeScript-based tool for auditing and analyzing machine learning models.
 
 ## Getting Started
 
@@ -43,11 +43,11 @@ I specialize in extracting actionable insights from complex datasets and buildin
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ElusiveParadox/DVA_Portfolio.git
+   git clone https://github.com/TattvaRajput2401/DVA_Portfolio_Tattva.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd DVA_Portfolio
+   cd DVA_Portfolio_Tattva
    ```
 3. Install dependencies:
    ```bash

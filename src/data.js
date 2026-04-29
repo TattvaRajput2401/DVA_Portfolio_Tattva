@@ -2,52 +2,52 @@ const base = import.meta.env.BASE_URL
 
 const projects = [
   {
-    name: "HR Analytics",
-    description: "Analyzing employee data to gain insights into attrition, performance, and workforce trends.",
-    image: `${base}hr_analytics.png`,
-    tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/ElusiveParadox/HR_analytics",
-    live: "https://public.tableau.com/app/profile/aditya.kishore2698/viz/HRAnalyticsDashboard_17774472723050/Dashboard1?publish=yes"
+    name: "Gen-AI Milestone 1",
+    description: "AI project focusing on machine learning fundamentals and model implementation.",
+    image: `${base}gen_ai_milestone.png`,
+    tags: ["Python", "Machine Learning"],
+    github: "https://github.com/TattvaRajput2401/Gen-AI-Milestone-1",
+    live: "https://github.com/TattvaRajput2401/Gen-AI-Milestone-1"
   },
   {
-    name: "Hospital Readmission Analysis",
-    description: "Analyzing hospital readmission data to identify risk factors and improve patient care strategies.",
-    image: `${base}hospital_readmission.png`,
-    tags: ["Tableau", "Python", "Data Analytics"],
-    github: "https://github.com/ElusiveParadox/hospital_readmission",
-    live: "https://public.tableau.com/app/profile/aditya.kishore2698/viz/HospitalReadmissionDashboard_17774465747960/Dashboard1?publish=yes"
+    name: "Property Price Prediction",
+    description: "Intelligent Property Price Prediction is a machine learning–powered web application that estimates real estate prices based on property features.",
+    image: `${base}property_prediction.png`,
+    tags: ["Python", "Machine Learning", "Data Analysis"],
+    github: "https://github.com/TattvaRajput2401/Gen_AI-Property_price_prediction-",
+    live: "https://github.com/TattvaRajput2401/Gen_AI-Property_price_prediction-"
   },
   {
-    name: "Netflix Analytics",
-    description: "Analyzing Netflix content data to identify trends in genres, viewership, and regional popularity.",
-    image: `${base}netflix.png`,
-    tags: ["Tableau", "Python", "Data Analytics"],
-    github: "https://github.com/ElusiveParadox/netflix",
-    live: "https://public.tableau.com/app/profile/aditya.kishore2698/viz/NetflixDashboard_17774463008100/Netflix?publish=yes"
+    name: "Modular AI Companion",
+    description: "A modular AI-powered companion application built with Python, featuring extensible architecture for various AI capabilities.",
+    image: `${base}ai_companion.png`,
+    tags: ["Python", "AI"],
+    github: "https://github.com/TattvaRajput2401/Modular-AI-Companion",
+    live: "https://github.com/TattvaRajput2401/Modular-AI-Companion"
   },
   {
-    name: "Road Accident Analytics",
-    description: "Detailed analysis of road accidents to identify patterns, causes, and areas for potential safety improvements.",
-    image: `${base}accident.png`,
-    tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/ElusiveParadox/road_accident_analysis",
-    live: "https://public.tableau.com/app/profile/aditya.kishore2698/viz/Road_Accident_Analysis_17774471240560/RoadAccident_Dashboard?publish=yes"
+    name: "Study Tracker",
+    description: "A web application built with JavaScript to help track and manage study sessions and academic progress.",
+    image: `${base}study_tracker.png`,
+    tags: ["JavaScript", "React", "Web App"],
+    github: "https://github.com/TattvaRajput2401/studyTracker",
+    live: "https://study-tracker-delta-ashy.vercel.app"
   },
   {
-    name: "Amazon PrimeVideo Analytics",
-    description: "An exploratory data analysis of the Amazon Prime Video catalog, examining content distribution, ratings, and genres.",
-    image: `${base}primevideo.png`,
-    tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/ElusiveParadox/amazon_prime",
-    live: "https://public.tableau.com/app/profile/aditya.kishore2698/viz/AmazonPrimeDashboard_17774459955990/Dashboard1?publish=yes"
+    name: "SDSE Project",
+    description: "A full-stack JavaScript project focusing on software development and software engineering practices.",
+    image: `${base}sdse_project.png`,
+    tags: ["JavaScript", "Full-Stack"],
+    github: "https://github.com/TattvaRajput2401/SDSE-Project",
+    live: "https://github.com/TattvaRajput2401/SDSE-Project"
   },
   {
-    name: "Stock Market Analysis",
-    description: "A comprehensive Excel-based real estate market analysis and investment strategy evaluating property trends and profitability.",
-    image: `${base}stock_market.png`,
-    tags: ["Tableau", "Data Analytics"],
-    github: "https://github.com/ElusiveParadox/stock_market",
-    live: "https://public.tableau.com/app/profile/aditya.kishore2698/viz/StockMarketAnalysis_Dashboard_17774466960220/Dashboard1?publish=yes"
+    name: "Model Auditor",
+    description: "A TypeScript-based tool for auditing and analyzing machine learning models.",
+    image: `${base}model_auditor.png`,
+    tags: ["TypeScript", "ML Ops"],
+    github: "https://github.com/TattvaRajput2401/model-auditor",
+    live: "https://github.com/TattvaRajput2401/model-auditor"
   },
 ]
 
